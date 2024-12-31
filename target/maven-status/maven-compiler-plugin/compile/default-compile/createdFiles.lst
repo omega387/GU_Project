@@ -1,0 +1,3 @@
+com\product\model\Product.class
+com\product\controller\Home.class
+com\product\dao\ProductDAO.class
